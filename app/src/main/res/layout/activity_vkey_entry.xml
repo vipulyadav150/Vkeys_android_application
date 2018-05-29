@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="logins.vkeystore.vkeys.VkeyEntry">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/relativeBackground"
+        android:background="@color/blackback"
+        >
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+            android:id="@+id/logoimage"
+            android:background="@drawable/vimage"
+            android:layout_marginTop="30dp"
+
+            >
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="59dp"
+            android:layout_below="@+id/logoimage"
+            android:id="@+id/Appname"
+            android:textColor="#eff9f5f5"
+            android:text="Vkeys"
+            android:textSize="50dp"
+            android:gravity="center"
+            android:padding="3dp"
+            android:textStyle="italic"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Appname"
+            android:id="@+id/Descriptory"
+            android:textColor="#76ece9e9"
+            android:text="Your own Password Database !"
+            android:layout_marginTop="2dp"
+            android:gravity="center"/>
+
+
+
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

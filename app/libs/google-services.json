@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "391082714037",
+    "firebase_url": "https://vkeys-c2a8f.firebaseio.com",
+    "project_id": "vkeys-c2a8f",
+    "storage_bucket": "vkeys-c2a8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391082714037:android:e3160af102dc6854",
+        "android_client_info": {
+          "package_name": "logins.vkeystore.vkeys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391082714037-0rc2knkeka4cqk6357ud1c2mqk1qtl7t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "logins.vkeystore.vkeys",
+            "certificate_hash": "04d494ea0484f4753ec8e94bcfd94142c3cafdaf"
+          }
+        },
+        {
+          "client_id": "391082714037-vjnf14tsvabs7lpo9o6rueeohb5n8vi9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "391082714037-vjnf14tsvabs7lpo9o6rueeohb5n8vi9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWUVCb-CGA5rinJmcdgQsvT1DzcmzXmMA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391082714037-vjnf14tsvabs7lpo9o6rueeohb5n8vi9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
